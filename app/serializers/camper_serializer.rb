@@ -1,3 +1,3 @@
 class CamperSerializer < ActiveModel::Serializer
-  attributes :id, :name, :difficulty
+  attributes :id, :name, :age
 end
